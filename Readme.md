@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Василий Сахаров](https://up.htmlacademy.ru/htmlcss/33/user/1373047).
-* Наставник: Дмитрий Дроганов.
+* Наставник: Дмитрий Дроганов. (https://htmlacademy.ru/profile/dmdragon)
 
 ---
 
